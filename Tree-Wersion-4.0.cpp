@@ -33,15 +33,15 @@ int main()
 			system("color A");
 			system("cls");
 			cout << "Scan Complete!! Wiew results below!!\n";
-			cout << "   _______________________\n";
-			cout << "   | Wirus found -0-     |\n";
-			cout << "   | Malware Found -0-   |\n";
-			cout << "   | Koobface No Detected|\n";
-			cout << "   | Scammers Found -1-!!|\n";
-			cout << "   | Rundll32  Clean!!   |\n";
-			cout << "   |_____________________|\n";
+			cout << "   ________________________\n";
+			cout << "   | Wirus found -0-      |\n";
+			cout << "   | Malware Found -0-    |\n";
+			cout << "   | Koobface Not Detected|\n";
+			cout << "   | Scammers Found -1-!! |\n";
+			cout << "   | Rundll32  Clean!!    |\n";
+			cout << "   |______________________|\n";
 			cout << endl;
-			cout << "Your dextop is clean thank u for using tree scam!!!\n";
+			cout << "Your dextop is clean!!!\n";
 			Sleep(5000);
 		}
 		{ // Last lines before program exits 
